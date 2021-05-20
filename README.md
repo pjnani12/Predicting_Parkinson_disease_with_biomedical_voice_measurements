@@ -4,4 +4,4 @@ Parkinson's disease (PD) Prediction using KNN with biomedical voice measurements
 Data Set :
 https://archive.ics.uci.edu/ml/datasets/parkinsons/
 
-• Classifier used :- KNN  
+• Classifier used :- KNN
